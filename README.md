@@ -1,5 +1,5 @@
 # STM32F4_based_PCB_Design_using_kiCAD
-This repository contains all the files related to the design of a PCB using KICAD. The PCB is based on the STM32F4-based microcontroller and incorporates a USB interface and a buck converter.
+This repository contains all the files related to the design of a PCB using KICAD. The PCB is based on the STM32F4-based microcontroller and incorporates a USB interface and a Buck converter.
 
 This repository includes the following files:
 
